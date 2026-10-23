@@ -6,6 +6,7 @@
 | `items.tsv` | 每一項的書目與權利欄位，給索引用 |
 | `grab.py` | 依 `sel.tsv` 從 archive.org 下載頁面影像（寬 1600px）到 `04_screenshots/`，已存在的會跳過 |
 | `index.py` | 依 `items.tsv` 和資料夾內容重新產生 `04_screenshots/INDEX.md` |
+| `period_sheets.py` | 依時期（福爾摩沙 #1–8、生番 #9–19、高砂族 #20–28）把截圖排成對照頁，輸出到 `04_screenshots/_by_period/`；需要 Pillow |
 
 ```bash
 python3 05_tools/grab.py          # 全部

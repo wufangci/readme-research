@@ -8,6 +8,7 @@
 - 研究計畫：[`00_RESEARCH_PLAN.md`](00_RESEARCH_PLAN.md)，方向已由作者確認。
 - 第一輪 archive.org 搜尋完成：[`03_search/2026-10-23_round1_archive-org.md`](03_search/2026-10-23_round1_archive-org.md)，28 項候選，未下載任何檔案。
 - 截圖完成：[`04_screenshots/`](04_screenshots/INDEX.md)，26 項、362 張，圖檔只在本機（不進 git）。腳本在 `05_tools/`。
+- 選件方式已定：每個時期一組、多張。對照頁在 `04_screenshots/_by_period/`。
 - 總表還是空的：作者挑選後才編號。
 
 ## 作者還沒回答的
