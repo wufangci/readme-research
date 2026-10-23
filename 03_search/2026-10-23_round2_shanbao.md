@@ -35,9 +35,9 @@
 
 - 「僅限公開瀏覽」：只能看，不能再利用。
 - CC BY-NC（非商業）、CC BY-SA 等：可依條款再利用，展覽是否屬商業要確認。
-- CC BY、CC0、PDM、OGDL：再利用限制最少。本輪這類圖像有 84 筆，另列在下方。
+- 不含 NC 條款（CC BY、CC BY-SA、CC0、PDM、OGDL）：再利用限制最少。本輪這類圖像有 17 筆，另列在下方。同一筆標「CC BY-NC / CC BY-SA」的（文字與圖像授權可能不同），歸在非商業。
 
-## 一、授權較開放的圖像（CC BY／CC0／PDM／OGDL）
+## 一、授權較開放的圖像（不含 NC 條款：CC BY、CC BY-SA、CC0、PDM、OGDL）
 
 | 年 | 典藏 | 授權 | 標題（原文） | 連結 |
 |---|---|---|---|---|
@@ -46,86 +46,17 @@
 | 1945 | 文化部典藏 | CC BY | 臺南州發行吳鳳像吳鳳廟 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000003082)／[原典藏](https://collections.culture.tw/Object.aspx?SYSUID=11&RNO=MjAwMi4wMDcuMDE4MA==) |
 | 1945 | 文化部典藏 | CC BY | 阿里山國立公園協會印行嘉義北回歸線標及吳鳳廟 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000001495)／[原典藏](https://collections.culture.tw/Object.aspx?SYSUID=11&RNO=MjAwMS4wMDguMTE3OQ==) |
 | 1945 | 文化部典藏 | CC BY | 阿里山國立公園協會印行嘉義北回歸線標與吳鳳廟 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000001479)／[原典藏](https://collections.culture.tw/Object.aspx?SYSUID=11&RNO=MjAwMS4wMDguMTE2Mw==) |
-| 1948 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 宣導山地任務完畢　宣導團昨返縣　所至均徵詢民間意見疾苦 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513514)／[原典藏](https://cmsdb.culture.tw/object/11B04BE3-999B-4B53-A455-18BE4D9414B8) |
-| 1948 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 宣慰山地村落同胞　縣府籌組宣導團　將同時集中分發救濟品 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513482)／[原典藏](https://cmsdb.culture.tw/object/C9C0BF9C-F6C0-418F-87AF-6A7572CEE82A) |
-| 1948 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 山地青年服務隊　　秀林鄉明天成立 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513466)／[原典藏](https://cmsdb.culture.tw/object/59843601-3E37-4720-AC90-47AB85BC6AC7) |
-| 1948 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 我對改善山地鄉的看法 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513517)／[原典藏](https://cmsdb.culture.tw/object/D82EC9C5-FBA0-4C3E-BF04-6A648D15820D) |
-| 1948 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 教部指撥專款　掃除山地文盲　今年高中學生由省保送 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513500)／[原典藏](https://cmsdb.culture.tw/object/DC43179A-F846-4EC0-B51E-56353FCD9052) |
-| 1948 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 縣山地宣導團　昨宣慰秀林鄉　各村代表紛紛提出要求　希望政府改善他們生活 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513509)／[原典藏](https://cmsdb.culture.tw/object/55414F61-1FAE-41A2-B501-190AAE4E6153) |
-| 1948 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 縣府招考山地教員 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513462)／[原典藏](https://cmsdb.culture.tw/object/4FC760B4-1836-4F38-A9D3-89E93501D032) |
-| 1949 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 副刊　本報特實　遷居吉安的高山族 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513636)／[原典藏](https://cmsdb.culture.tw/object/A189F2EA-B952-47D1-9624-CFE16DBABC47) |
-| 1949 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 山地同胞染有肺病者　佔百分之八十　據衛生處楊視察談：東部衛生設備太差、亟待改善。瘧疾研究所短期內即可東來設立機構。 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513776)／[原典藏](https://cmsdb.culture.tw/object/81E45F7D-065F-42DD-907F-F8E6D2A87C63) |
-| 1949 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 山地警察所已經開始辦公 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513961)／[原典藏](https://cmsdb.culture.tw/object/AED28D03-2FF7-45CF-A2DD-E7A660123987) |
-| 1949 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 改善山地人民衣著　蓮峯區署通令所屬　設鄉立縫紉講習所 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513761)／[原典藏](https://cmsdb.culture.tw/object/32EAF222-5880-4184-A7ED-6A34AC27CF33) |
-| 1949 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 秀林鄉擬設燒炭窰　如獲准每月可出炭萬斤　山地鄉正積極開墾荒地
-
- | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513554)／[原典藏](https://cmsdb.culture.tw/object/2AA8A09D-B630-4C92-A425-690DCE3DB5C6) |
-| 1949 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 米崙設基督宣道所　轉移山地同胞惡俗 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513609)／[原典藏](https://cmsdb.culture.tw/object/E5151AD7-E995-424E-9D01-21A8C1AB8043) |
-| 1949 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 聽取山地工作人員政見　縣府開座談會　秀林鄉地域遼闊請求分館　何雲波今抵鳳林尋覓區署地點 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513628)／[原典藏](https://cmsdb.culture.tw/object/9E9E8AD5-712D-4B99-B6DF-8B35F1DD601E) |
-| 1949 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 花蓮縣蓮峰山地行政 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513790)／[原典藏](https://cmsdb.culture.tw/object/4798BE5E-9CD2-4B5E-B102-2DDA5893A1B6) |
-| 1949 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 蓮峰山地區署舉行　傳教師座談會　討論傳教方針 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513684)／[原典藏](https://cmsdb.culture.tw/object/98DA2542-82DA-4CBD-A7B0-0E4DB59DDBF2) |
-| 1949 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 蔡紅毛犯眾怒　山地區請懲辦 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513727)／[原典藏](https://cmsdb.culture.tw/object/8B8A487B-AD32-4770-89DF-E46A8883AC55) |
-| 1951 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 探求山地民隱　視察各項設施　楊縣長昨赴秀林視察 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513810)／[原典藏](https://cmsdb.culture.tw/object/FAC04EB5-900A-43EE-AE7D-1EFA67EE868B) |
 | 1951 | 國家文化記憶庫 | CC BY / OGDL | 臺灣省山地物資供銷委員會東部供銷處職員合影 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=514797)／[原典藏](https://cmsdb.culture.tw/object/969ACC29-8859-4049-ACCA-5A406D35DA60) |
-| 1957 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 平地山胞貸款 二期今起發放 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=247992)／[原典藏](https://cmsdb.culture.tw/object/A60F7FA6-6939-46AC-8B87-BF6731FA4E23) |
-| 1957 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 東臺文物 山胞抗日 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=248175)／[原典藏](https://cmsdb.culture.tw/object/852AC8D2-EB29-4802-B931-3D1A9576032D) |
-| 1957 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 東臺文物 山胞抗日 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=248180)／[原典藏](https://cmsdb.culture.tw/object/8BF81448-57F3-440E-A085-D14F28D44BC5) |
-| 1957 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 東臺文物 山胞抗日 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=248183)／[原典藏](https://cmsdb.culture.tw/object/43BE402B-D27E-4985-BD1B-02F0FB09A707) |
-| 1957 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 東臺文物 山胞抗日 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=248191)／[原典藏](https://cmsdb.culture.tw/object/91E807EB-0276-44D1-BD4E-E260499C95BB) |
-| 1957 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 東臺文物 山胞抗日 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=248195)／[原典藏](https://cmsdb.culture.tw/object/09CFBE46-E400-41A4-B69F-B565B13C1640) |
-| 1957 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 東臺文物 山胞抗日 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=248196)／[原典藏](https://cmsdb.culture.tw/object/B7F7D75D-F6EA-4486-A860-FE6F9D42CD47) |
-| 1957 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 東臺文物 山胞抗日 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=248202)／[原典藏](https://cmsdb.culture.tw/object/712E32F3-EFAB-4417-AD7E-483E06B5D770) |
-| 1957 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 東臺文物 山胞抗日 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=248206)／[原典藏](https://cmsdb.culture.tw/object/E69818AB-29D6-4889-B170-A9366368E0DD) |
 | 1958 | 國家文化記憶庫 | CC BY / OGDL | 吳鳳為澤鄉人而死，社番誓不於中路殺人 臺灣雜詠合刻 台灣文獻史料叢刊 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=276826)／[原典藏](https://cmsdb.culture.tw/object/E06AD9A0-7ADB-493A-B1BB-8C2A442CF6C3) |
-| 1958 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 山胞康樂室 將普遍設立 全縣設卅八處 分三年內完成 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=262682)／[原典藏](https://cmsdb.culture.tw/object/0C6A2089-8400-408A-B351-654324588277) |
-| 1958 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 提高山胞生活，縣府決定舉辦婦女家政講習 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=262654)／[原典藏](https://cmsdb.culture.tw/object/EE237E50-E602-4044-BFA5-3627C53ACBD0) |
-| 1958 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 東部青年愛好音樂，李抱忱非常感動。李博士昨談觀感時稱，研究山地音樂極重要 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=262673)／[原典藏](https://cmsdb.culture.tw/object/1BE8D314-4A80-47D6-96C5-C0B22B8C2628) |
-| 1960 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 吳鳳幼稚園秋季遠足 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=251441)／[原典藏](https://cmsdb.culture.tw/object/BAA3E97C-9D1D-4B4E-A0A8-197FBED6A1FF) |
 | 1960 | 國家文化記憶庫 | CC BY / OGDL | 吳鳳死後，蕃社發生大瘟疫，蕃人悔懼而革此俗，設廟祀奉吳鳳 臺灣遊記 台灣文獻史料叢刊 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=277827)／[原典藏](https://cmsdb.culture.tw/object/519536CB-642D-4A7B-8548-1207D300618C) |
 | 1961 | 國家文化記憶庫 | OGDL / CC0 | 山地教會作巡迴醫療團臨時診所 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=513191)／[原典藏](https://cmsdb.culture.tw/object/F822AAAC-F96A-471C-95D5-49E172663501) |
-| 1961 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 開發山地農牧資源，即將積極展開，在十年內開發卅萬公頃，花東兩縣籌設示範茶園 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=262777)／[原典藏](https://cmsdb.culture.tw/object/406AEE44-61F1-4460-A4F1-7032AAE8D571) |
-| 1962 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 張美瑤與《吳鳳》外景隊在霧峰 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=623883)／[原典藏](https://cmsdb.culture.tw/object/F70A7B79-76A5-41A0-A61B-23467337D1E2) |
-| 1962 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 張美瑤與《吳鳳》外景隊在霧峰 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=623885)／[原典藏](https://cmsdb.culture.tw/object/1731CF09-2770-4502-87DD-3B9551619E37) |
-| 1962 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 改進山胞生活 萬榮檢討工作 舉辦環境衛生競賽 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=247881)／[原典藏](https://cmsdb.culture.tw/object/AAACA1B7-E2CF-4A29-B7C8-D6F5281B360B) |
-| 1962 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 電影吳鳳拍攝現場 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=307997)／[原典藏](https://cmsdb.culture.tw/object/11266F32-22C7-4BE5-B94B-26CA7E913C44) |
-| 1963 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 《吳鳳》獲第2屆金馬獎「最佳教育劇情片」 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=621303)／[原典藏](https://cmsdb.culture.tw/object/571F2575-34AC-4213-82E2-12C9D30C36DF) |
-| 1963 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 於烏來國校舉行的山地保送初中師範考選測驗 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=323942)／[原典藏](https://cmsdb.culture.tw/object/871CAA73-FC41-469D-98A0-0A627DBAA611) |
-| 1963 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 黑森林山地場面舞，荳蘭橋人山人海 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=262787)／[原典藏](https://cmsdb.culture.tw/object/F06FC6EB-0698-4565-B3E9-73C01DD1B89F) |
-| 1964 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 山胞耕牛被盜 報警置之不理 黃尚宇表示絕徹查嚴辦 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=263162)／[原典藏](https://cmsdb.culture.tw/object/F03AD9DB-43FE-4906-9659-5AD005DC77A4) |
-| 1964 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 山胞農業技術交換大會 昨在鯉魚潭畔揭幕 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=263159)／[原典藏](https://cmsdb.culture.tw/object/ECAEC119-2955-4A36-8660-AF08CFE01EC8) |
-| 1964 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 山胞酗酒成習 情形非常可怕 卓溪一女教員投書本報 提倡戒酒共同烙守 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=263142)／[原典藏](https://cmsdb.culture.tw/object/A4CEDEEF-3D2C-48B1-B3FF-EDD974E281DC) |
-| 1964 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 平地山胞代表 名額應予保障 吳有溪昨提出建議 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=263135)／[原典藏](https://cmsdb.culture.tw/object/E525CAF8-752C-499B-8E55-071A9CD2FADB) |
 | 1964 | 文化部典藏 | CC BY | 李昭子等人於吳鳳廟後園 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000168185)／[原典藏](https://collections.culture.tw/Object.aspx?SYSUID=11&RNO=MjAxOC4wMTcuMDA3OQ==) |
 | 1964 | 文化部典藏 | CC BY | 林夙芬與王素敏等七人於吳鳳廟 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000168184)／[原典藏](https://collections.culture.tw/Object.aspx?SYSUID=11&RNO=MjAxOC4wMTcuMDA3OA==) |
 | 1965 | 文化部典藏 | CC BY | 劉嘉豐攝於吳鳳廟山門前 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000168220)／[原典藏](https://collections.culture.tw/Object.aspx?SYSUID=11&RNO=MjAxOC4wMTcuMDExNA==) |
 | 1965 | 文化部典藏 | CC BY | 林坤佐與劉嘉豐攝於吳鳳廟山門前 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000168221)／[原典藏](https://collections.culture.tw/Object.aspx?SYSUID=11&RNO=MjAxOC4wMTcuMDExNQ==) |
 | 1965 | 文化部典藏 | CC BY | 林坤佐與劉嘉豐攝於嘉義吳鳳廟 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000168218)／[原典藏](https://collections.culture.tw/Object.aspx?SYSUID=11&RNO=MjAxOC4wMTcuMDExMg==) |
-| 1965 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 配合發展觀光事業，花山地文化村昨日正式開放 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=263191)／[原典藏](https://cmsdb.culture.tw/object/7F23290A-5A1B-4D2A-B920-FE7CD22C6616) |
-| 1967 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 玉里花燈熱鬧非凡，啟模里翻新花樣，民間故事大出籠。四頭瑞獅配合山地舞，征東掃北古人滿街遊 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=264033)／[原典藏](https://cmsdb.culture.tw/object/80C1F8B2-E3D9-4CB4-86DE-E0ED62D8C96E) |
-| 1968 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 公賣局增資 製暢銷菸酒 「保林菸絲」配購證 秀林山胞尚未領到 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=247742)／[原典藏](https://cmsdb.culture.tw/object/466F1224-DAFB-4031-9D9F-842D631612CD) |
-| 1968 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 加強山地建設 決定擴大造林 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=247705)／[原典藏](https://cmsdb.culture.tw/object/59B013FE-7254-4871-BF19-EA362D658E92) |
-| 1968 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 山胞家政訓練 定後日起舉行 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=247785)／[原典藏](https://cmsdb.culture.tw/object/21B2C324-6F12-471F-8CE5-5F32D378282B) |
-| 1968 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 山胞農產批發市場決設于太魯閣 將徵求承銷人 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=247756)／[原典藏](https://cmsdb.culture.tw/object/1B983D22-BFEF-4504-ADAE-902A77D16383) |
-| 1968 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 平地山胞學童補助文具費用  | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=247783)／[原典藏](https://cmsdb.culture.tw/object/355343AF-69B2-4772-A153-1C30201B89C0) |
-| 1968 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 東部山胞生活改善收穫顯著成效 花東兩縣舉行工作檢討 咸盼增加輔導經費人員 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=247807)／[原典藏](https://cmsdb.culture.tw/object/067B6C16-E334-4959-B94D-7E021573E86F) |
-| 1968 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 臺北塑膠工廠徵山胞臨時工 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=247831)／[原典藏](https://cmsdb.culture.tw/object/2F83240E-E237-4B2C-92AA-24758D037BD2) |
-| 1969 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 板橋鎮後埔國小十週年校慶運動會表演千人山地舞 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=323805)／[原典藏](https://cmsdb.culture.tw/object/69ACB2A7-53DB-4F4A-B549-8E81430CFCF4) |
 | 1970 | 國家文化記憶庫 | PDM | 嘉義車站吳鳳像 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=754963)／[原典藏](https://cmsdb.culture.tw/object/B510FE03-2821-4166-B842-4E72DE06E9FE) |
-| 1970 | 記憶庫事件 | CC BY-NC / CC BY-SA | 國小山地舞 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=310591)／[原典藏](https://cmsdb.culture.tw/event/C2D5E15C-1F06-4266-93DA-0780C6B74E41) |
-| 1970 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 花蓮天祥山地歌舞團赴日訪問 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=308021)／[原典藏](https://cmsdb.culture.tw/object/88F0037D-19E5-40BC-8F0B-2A1FF6A357B1) |
-| 1970 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 花蓮天祥山地歌舞團遠征日本 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=308022)／[原典藏](https://cmsdb.culture.tw/object/E3FB4FE6-09AA-4AF7-97F3-8B99E8B20113) |
-| 1973 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 山地國語文教育，縣府修定將加強 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=262852)／[原典藏](https://cmsdb.culture.tw/object/0F589155-C1E1-4589-B1A0-489FD6E70152) |
-| 1973 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 輔導改進山胞生活 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=262855)／[原典藏](https://cmsdb.culture.tw/object/C6CA9F22-49E4-4F92-882C-7DD48E87B8C9) |
-| 1978 | 記憶庫事件 | CC BY-NC / CC BY-SA | 九族文化村的記憶 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=310197)／[原典藏](https://cmsdb.culture.tw/event/74DB8173-84E4-49B9-A1A2-999C1E4E696B) |
-| 1978 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 吉安阿眉山胞 昨舉行豐年祭 景象歡樂醉人太多 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=262976)／[原典藏](https://cmsdb.culture.tw/object/366D6CAE-B1E1-446C-8B96-D2AE1C182D92) |
 | 1979 | 國家文化記憶庫 | CC0 / PDM | 吳鳳 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=301167)／[原典藏](https://cmsdb.culture.tw/object/3372C68C-6E9C-4BE7-A470-A7530840C61B) |
-| 1980 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 《思與言》原住民論文 -三個臺灣高山族的例子 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=569955)／[原典藏](https://cmsdb.culture.tw/object/0DC00F50-8B39-4DF5-81AB-F5CE908DCBB8) |
-| 1980 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 日教授土田滋在花，實地接觸山胞，研究山地文化 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=247844)／[原典藏](https://cmsdb.culture.tw/object/8ED4CE59-B06A-42DD-BCCD-0D5FB700C6B7) |
-| 1980 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 省今年決運用鉅款，改善偏遠居民生活。卓溪石平部落山胞生活窘困，亟需政府重視加速輔導改善 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=247836)／[原典藏](https://cmsdb.culture.tw/object/2516DB3D-B050-401B-A499-B911D9FAD2EE) |
-| 1980 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 秀林積極爭取，設山地文物館 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=247838)／[原典藏](https://cmsdb.culture.tw/object/FBF02089-B48B-48F4-B97C-76BE80EEAC91) |
-| 1992 | 記憶庫事件 | CC BY-NC / CC BY-SA | 第一屆山胞藝術季 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=618235)／[原典藏](https://cmsdb.culture.tw/event/73DB37DF-AE68-419B-B2FB-9592CE1355C4) |
-| 1992 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 第一屆山胞藝術季 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=617358)／[原典藏](https://cmsdb.culture.tw/object/E8252BAE-F11F-49E1-A8E9-F1218CB4BE56) |
-| 1992 | 國家文化記憶庫 | CC BY-NC / CC BY-SA | 第一屆山胞藝術季 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=619837)／[原典藏](https://cmsdb.culture.tw/object/C9C80D8E-40DA-49B6-B4C7-60FF5472997E) |
 | 1992 | 記憶庫事件 | PDM | 高仁愛出遊時與山地鄉原住民小孩在巴士站偶遇合照 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=630029)／[原典藏](https://cmsdb.culture.tw/event/E5DA30D8-3F1B-427D-8E6A-CEF787A9FCCC) |
 
 ## 二、圖像與報導（全部，依年份）
