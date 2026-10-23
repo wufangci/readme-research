@@ -9,6 +9,7 @@
 
 | 檔案 | 用途 |
 |---|---|
+| [`00_RESEARCH_PLAN.md`](00_RESEARCH_PLAN.md) | 研究計畫：時期、候選出處、搜尋方法、分工 |
 | [`00_PRODUCTION_BOARD.md`](00_PRODUCTION_BOARD.md) | 圖像總表：編號、出處、授權、用途、檔案存放位置 |
 | [`SESSION_HANDOFF.md`](SESSION_HANDOFF.md) | 交接：上次做到哪、下次從哪開始 |
 | [`AGENTS.md`](AGENTS.md) | 給 AI 的常用記憶：規則、偏好、工作習慣 |
@@ -19,6 +20,9 @@
 |---|---|
 | `01_images/` | 圖像原檔（**不進 git**，只留命名規則） |
 | `02_rights/` | 出處與授權紀錄：館藏、申請、回覆 |
+| `03_search/` | 每一輪搜尋的候選清單（書目、連結、權利欄位、有圖的頁面） |
+| `04_screenshots/` | 每項資料的重要頁面截圖（**圖檔不進 git**，索引見 `04_screenshots/INDEX.md`） |
+| `05_tools/` | 截圖下載與索引腳本 |
 | `06_process/` | 研究歷程：決策紀錄、每次工作摘要 |
 
 ## 圖像不進 git
