@@ -21,7 +21,7 @@
 
 「製作方式」只依有紀錄的製作事實（作者是否到過現場、照片或重繪、圖說文字），不判讀影像內容。✓ 對得上，△ 部分對得上，⚠️ 待確認。
 
-## 一、Formosa（6 張）——動作：想像
+## 一、Formosa（7 張）——動作：想像
 
 | 標示 | 原書圖說（抄錄） | 右下標註 | 製作方式 | 與本段動作 |
 |---|---|---|---|---|
@@ -31,6 +31,7 @@
 | 01_n276 | fig.9 The … General／The General's Lady／A Gentleman／A Gentlewoman | 同上 | 想像 | ✓ |
 | 01_n279 | fig.10 A Burger／A Country Bumpkin／A Virgin／A Bride | 同上 | 想像 | ✓ |
 | 01_n283 | fig.11 A Married Woman／A Gentleman's Nurse／A Widow／A Country Woman（Pag. 229） | 同上 | 想像 | ✓ |
+| 29_n248 | Formosan.（Asie.） | Auguste Wahlen／Mœurs, usages et costumes de tous les peuples du monde／1843 | 編纂（待查） | ✓ 作者指定（2026-10-23）；書名自稱依「documents authentiques」編纂，作者是否到過現場待查 |
 
 ## 二、生番（18 張）——動作：拍攝 → 重繪
 
@@ -86,6 +87,7 @@
 ## 片尾完整書目（草稿）
 
 - Psalmanazar, George. *An Historical and Geographical Description of Formosa*. London: Printed for Dan. Brown, G. Strahan, W. Davis, and Fran. Coggan, 1704. Johns Hopkins University Sheridan Libraries, via Internet Archive (`bib_fict_552132`).
+- Wahlen, Auguste. *Mœurs, usages et costumes de tous les peuples du monde, d'après des documents authentiques et les voyages les plus récents*. T. I, Asie. Bruxelles: Librairie historique-artistique, 1843. Wellcome Library, via Internet Archive (`b33522042_0001`), Public Domain Mark.
 - Thomson, John. *Illustrations of China and Its People*, Vol. II. London: Sampson Low, Marston, Low, and Searle, 1873. Getty Research Institute, via Internet Archive (`gri_33125010851760`).
 - Thomson, John. « Voyage en Chine (1870-1872) : Formose ». Trad. A. Talandier. *Le Tour du monde*, t. XXX (1875, 2ᵉ semestre), 769ᵉ livraison, p. 209–224 ; 770ᵉ livraison, p. 225–240. Paris : Hachette. 原刊掃描：BnF Gallica `ark:/12148/bpt6k344041`。截圖取自 René Viénet 整理的 PDF（Internet Archive `john-thomson-formose-le-tour-du-monde-32-pages-light`）。
 - Mackay, George Leslie. *From Far Formosa*. New York: F. H. Revell, 1895. Princeton Theological Seminary Library, via Internet Archive (`fromfarformosais00mack`).
@@ -93,6 +95,10 @@
 - Davidson, James W. *The Island of Formosa, Past and Present*. London: Macmillan, 1903. University of Toronto, via Internet Archive (`islandofformosap00daviuoft`).
 - Takekoshi, Yosaburō. *Japanese Rule in Formosa*. Trans. George Braithwaite. London: Longmans, Green, and Co., 1907. Via Internet Archive (`japaneseruleinf00takegoog`).
 - Bureau of Aboriginal Affairs, Government of Formosa. *Report on the Control of the Aborigines in Formosa*. Taihoku, 1911. University of Michigan, digitized by Google, via Internet Archive (`taiwan.-report-on-the-control-of-the-aborigines-in-formosa`).
+
+## 新增
+
+- #29 Wahlen 1843（作者提供，2026-10-23）：彩色版畫 n248，圖說「Formosan.（Asie.）」。和作者在研究資料中保存的國立臺灣歷史博物館典藏 `20020060075_P001.jpg`（圖說同為「Formosan.〔Asie.〕」）推測是同一張版畫，待對照（建議，未確認）。
 
 ## 已拿掉
 

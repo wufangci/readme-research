@@ -68,3 +68,9 @@
 
 - **依據**：Getty 館藏紀錄，《't Verwaerloosde Formosa》（1675）主題為荷蘭殖民地被鄭成功攻下；版畫由 Johannes van den Aveele、J. van Baden 製作，內容為熱蘭遮城、廟宇內部、戰爭場面。
 - **決定**：作者判斷「比較不算」被想像的樣子，從 Formosa 段拿掉。Formosa 段只留 Psalmanazar（6 張）。
+
+## 加入 Wahlen 1843（2026-10-23）
+
+- **要求**：作者提供 archive.org `b33522042_0001`（Wahlen《Mœurs, usages et costumes de tous les peuples du monde》t. I Asie，1843），認為比 Coyett 更符合。
+- **決定**：加入 Formosa 段（n248，圖說「Formosan.（Asie.）」）。授權 PDM（Wellcome Library）。
+- 與臺史博典藏的「Formosan.〔Asie.〕」版畫推測同源，待對照。
