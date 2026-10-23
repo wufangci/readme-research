@@ -1,7 +1,7 @@
 # 截圖索引
 
 > 由腳本產生。「原書圖說」只抄錄書上印的文字；空白表示沒有圖說或待補。圖檔不進 git。
-共 362 張。
+共 365 張。
 
 
 ## 01　Psalmanazar, An Historical and Geographical Description of Formosa, 1704（英文）
@@ -599,3 +599,15 @@
 | `28_sayon-no-kane-1943_003720.jpg` | 影格 3720 秒（[影片](https://archive.org/details/Sayon_no_kane)） |  |
 | `28_sayon-no-kane-1943_004020.jpg` | 影格 4020 秒（[影片](https://archive.org/details/Sayon_no_kane)） |  |
 | `28_sayon-no-kane-1943_004320.jpg` | 影格 4320 秒（[影片](https://archive.org/details/Sayon_no_kane)） |  |
+
+## 29　Auguste Wahlen, Mœurs, usages et costumes de tous les peuples du monde, t. I Asie, 1843（法文，作者提供）
+
+- archive.org：[`b33522042_0001`](https://archive.org/details/b33522042_0001)
+- 權利欄位：PDM（Wellcome Library）
+- 截圖：3 張，資料夾 `29_wahlen-moeurs-usages-1843/`
+
+| 檔案 | 原頁 | 原書圖說 |
+|---|---|---|
+| `29_wahlen-moeurs-usages-1843_n0.jpg` | [n0](https://archive.org/details/b33522042_0001/page/n0) |  |
+| `29_wahlen-moeurs-usages-1843_n247.jpg` | [n247](https://archive.org/details/b33522042_0001/page/n247) |  |
+| `29_wahlen-moeurs-usages-1843_n248.jpg` | [n248](https://archive.org/details/b33522042_0001/page/n248) |  |
