@@ -9,3 +9,7 @@
 *.pdf
 *.heic
 .DS_Store
+*.webp
+*.gif
+*.mp4
+*.mov
