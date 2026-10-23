@@ -6,71 +6,87 @@
 > 「原書圖說」只照原書印的文字抄錄，空白表示頁面上沒有圖說或還沒抄。圖像說明由作者撰寫。
 > 對照頁：`04_screenshots/_draft/1_formosa.jpg`、`2_seiban.jpg`、`3_takasago.jpg`（不進 git）。清單在 `05_tools/draft_selection.tsv`。
 
-## 一、福爾摩沙（11 張）
 
-| 標示 | 原書圖說（抄錄） | 右下標註 |
-|---|---|---|
-| 01_n267 | fig.5 The King（Pag. 224） | George Psalmanazar／An Historical and Geographical Description of Formosa／1704 |
-| 01_n268 | fig.6 The Queen（Pag. 224） | 同上 |
-| 01_n273 | fig.8 The Viceroy's Lady（Pag. 226） | 同上 |
-| 01_n276 | fig.9 The … General／The General's Lady／A Gentleman／A Gentlewoman | 同上 |
-| 01_n279 | fig.10 A Burger／A Country Bumpkin／A Virgin／A Bride | 同上 |
-| 01_n283 | fig.11 A Married Woman／A Gentleman's Nurse／A Widow／A Country Woman（Pag. 229） | 同上 |
-| 07_n4 | 卷首圖，標題「Verwaarloosde Formosa」 | Frederik Coyett（C.E.S.）／'t Verwaerloosde Formosa／1675 |
-| 07_n74 |  | 同上 |
-| 07_n86 | （右上）tweede deel fol. 20 | 同上 |
-| 07_n110 | （右上）tweede deel fol. 40 | 同上 |
-| 07_n130 | （右上）… fol. 52 | 同上 |
+## 段落結構（作者決定，2026-10-23）
 
-## 二、生番（18 張）
+每段代表一種動作，串成一條轉手的路徑；段落總標題「被想像的樣子」保留為統稱。
 
-| 標示 | 原書圖說（抄錄） | 右下標註 |
-|---|---|---|
-| 11_n18 |  | John Thomson／Illustrations of China and Its People, Vol. II／1873 |
-| 11_n24 |  | 同上 |
-| 11_n30 |  | 同上 |
-| 11_n36 |  | 同上 |
-| 13_n8 |  | John Thomson／〈Voyage en Chine : Formose〉, Le Tour du monde, t. XXX／1875 |
-| 13_n15 |  | 同上 |
-| 13_n19 |  | 同上 |
-| 13_n27 |  | 同上 |
-| 13_n30 |  | 同上 |
-| 13_n31 |  | 同上 |
-| 17_n129 | Formosa Aborigines Eating Rice.／A Village in Eastern Formosa.（p.78） | George Leslie Mackay／From Far Formosa／1895 |
-| 17_n276 | Lam-si-hoan Chief and Party（p.242） | 同上 |
-| 17_n294 | Unsubdued Aborigines Living in the Mountains（p.256） | 同上 |
-| 17_n308 | Armed Head-hunters, Sometimes Known as "Black Flags"（p.268） | 同上 |
-| 18_n104 | Pepo-hoan Civilised Aborigines（p.64） | W. A. Pickering／Pioneering in Formosa／1898 |
-| 18_n146 | Pepo-hoan and Chinese Group, Formosa（p.100） | 同上 |
-| 18_n202 | A Pepo-hoan Fishing Party with Bows and Arrows（p.144） | 同上 |
-| 18_n208 | Aborigines, North Formosa（p.148） | 同上 |
+| 段 | 動作 |
+|---|---|
+| Formosa | 想像：沒去過的人編造 |
+| 生番 | 拍攝 → 重繪（並排節點：Thomson 照片 ↔《Le Tour du monde》版畫） |
+| 高砂族 | 拍攝 → 分類（類型照、統計） |
+| 山胞 | 命名 → 流通（改名文件、報紙、觀光、電影） |
+| AI | 生成：沒有被拍攝的人，在平台上架販售（並排節點：平台頁面截圖） |
 
-## 三、高砂族（18 張）
+「製作方式」只依有紀錄的製作事實（作者是否到過現場、照片或重繪、圖說文字），不判讀影像內容。✓ 對得上，△ 部分對得上，⚠️ 待確認。
 
-| 標示 | 原書圖說（抄錄） | 右下標註 |
-|---|---|---|
-| 20_n639 | Savage Head-Hunters of Formosa. | James W. Davidson／The Island of Formosa, Past and Present／1903 |
-| 20_n646 | （一頁多張，各有小圖說） | 同上 |
-| 20_n654 | （一頁多張，各有小圖說） | 同上 |
-| 20_n658 | （一頁多張，含 Male Puyuma type (front view)／(side view)） | 同上 |
-| 20_n662 | （一頁多張，各有小圖說） | 同上 |
-| 20_n674 | （一頁多張，各有小圖說） | 同上 |
-| 21_n252 | Savage Types. | 竹越與三郎（Takekoshi Yosaburō）／Japanese Rule in Formosa／1907 |
-| 21_n258 | Savage Types. | 同上 |
-| 21_n261 | Western Gate of Kobicho.／Savage Types. | 同上 |
-| 21_n262 | Savage Types. | 同上 |
-| 22_n20 | A Taiyal Warrior. | 臺灣總督府蕃務本署／Report on the Control of the Aborigines in Formosa／1911 |
-| 22_n22 | Typical Taiyal Belle. | 同上 |
-| 22_n120 | A Bunun Man. | 同上 |
-| 22_n122 | A Bunun Woman. | 同上 |
-| 22_n152 | A Paiwan Man. | 同上 |
-| 22_n200 | An Ami Chief and His Wife. | 同上 |
-| 22_n268 | Population of the Aborigines. December 1909. | 同上 |
-| 22_n270 | Extension of the Guard-Line. 1895–1909. | 同上 |
+## 一、Formosa（11 張）——動作：想像
 
-## 四、山胞
+| 標示 | 原書圖說（抄錄） | 右下標註 | 製作方式 | 與本段動作 |
+|---|---|---|---|---|
+| 01_n267 | fig.5 The King（Pag. 224） | George Psalmanazar／An Historical and Geographical Description of Formosa／1704 | 想像 | ✓ |
+| 01_n268 | fig.6 The Queen（Pag. 224） | 同上 | 想像 | ✓ |
+| 01_n273 | fig.8 The Viceroy's Lady（Pag. 226） | 同上 | 想像 | ✓ |
+| 01_n276 | fig.9 The … General／The General's Lady／A Gentleman／A Gentlewoman | 同上 | 想像 | ✓ |
+| 01_n279 | fig.10 A Burger／A Country Bumpkin／A Virgin／A Bride | 同上 | 想像 | ✓ |
+| 01_n283 | fig.11 A Married Woman／A Gentleman's Nurse／A Widow／A Country Woman（Pag. 229） | 同上 | 想像 | ✓ |
+| 07_n4 | 卷首圖，標題「Verwaarloosde Formosa」 | Frederik Coyett（C.E.S.）／'t Verwaerloosde Formosa／1675 | 版畫（待查） | ⚠️ 待作者確認是否呈現人物形象、是否屬「想像」 |
+| 07_n74 |  | 同上 | 版畫（待查） | ⚠️ 待作者確認是否呈現人物形象、是否屬「想像」 |
+| 07_n86 | （右上）tweede deel fol. 20 | 同上 | 版畫（待查） | ⚠️ 待作者確認是否呈現人物形象、是否屬「想像」 |
+| 07_n110 | （右上）tweede deel fol. 40 | 同上 | 版畫（待查） | ⚠️ 待作者確認是否呈現人物形象、是否屬「想像」 |
+| 07_n130 | （右上）… fol. 52 | 同上 | 版畫（待查） | ⚠️ 待作者確認是否呈現人物形象、是否屬「想像」 |
 
-還沒有素材，archive.org 上沒找到。待第二輪。
+## 二、生番（18 張）——動作：拍攝 → 重繪
+
+| 標示 | 原書圖說（抄錄） | 右下標註 | 製作方式 | 與本段動作 |
+|---|---|---|---|---|
+| 11_n18 |  | John Thomson／Illustrations of China and Its People, Vol. II／1873 | 拍攝 | ✓（並排節點：照片） |
+| 11_n24 |  | 同上 | 拍攝 | ✓（並排節點：照片） |
+| 11_n30 |  | 同上 | 拍攝 | ✓（並排節點：照片） |
+| 11_n36 |  | 同上 | 拍攝 | ✓（並排節點：照片） |
+| 13_n8 |  | John Thomson／〈Voyage en Chine : Formose〉, Le Tour du monde, t. XXX／1875 | 重繪 | ✓（並排節點：版畫） |
+| 13_n15 |  | 同上 | 重繪 | ✓（並排節點：版畫） |
+| 13_n19 |  | 同上 | 重繪 | ✓（並排節點：版畫） |
+| 13_n27 |  | 同上 | 重繪 | ✓（並排節點：版畫） |
+| 13_n30 |  | 同上 | 重繪 | ✓（並排節點：版畫） |
+| 13_n31 |  | 同上 | 重繪 | ✓（並排節點：版畫） |
+| 17_n129 | Formosa Aborigines Eating Rice.／A Village in Eastern Formosa.（p.78） | George Leslie Mackay／From Far Formosa／1895 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
+| 17_n276 | Lam-si-hoan Chief and Party（p.242） | 同上 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
+| 17_n294 | Unsubdued Aborigines Living in the Mountains（p.256） | 同上 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
+| 17_n308 | Armed Head-hunters, Sometimes Known as "Black Flags"（p.268） | 同上 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
+| 18_n104 | Pepo-hoan Civilised Aborigines（p.64） | W. A. Pickering／Pioneering in Formosa／1898 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
+| 18_n146 | Pepo-hoan and Chinese Group, Formosa（p.100） | 同上 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
+| 18_n202 | A Pepo-hoan Fishing Party with Bows and Arrows（p.144） | 同上 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
+| 18_n208 | Aborigines, North Formosa（p.148） | 同上 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
+
+## 三、高砂族（18 張）——動作：拍攝 → 分類
+
+| 標示 | 原書圖說（抄錄） | 右下標註 | 製作方式 | 與本段動作 |
+|---|---|---|---|---|
+| 20_n639 | Savage Head-Hunters of Formosa. | James W. Davidson／The Island of Formosa, Past and Present／1903 | 拍攝＋分類 | ✓ |
+| 20_n646 | （一頁多張，各有小圖說） | 同上 | 拍攝＋分類 | ✓ |
+| 20_n654 | （一頁多張，各有小圖說） | 同上 | 拍攝＋分類 | ✓ |
+| 20_n658 | （一頁多張，含 Male Puyuma type (front view)／(side view)） | 同上 | 拍攝＋分類 | ✓ |
+| 20_n662 | （一頁多張，各有小圖說） | 同上 | 拍攝＋分類 | ✓ |
+| 20_n674 | （一頁多張，各有小圖說） | 同上 | 拍攝＋分類 | ✓ |
+| 21_n252 | Savage Types. | 竹越與三郎（Takekoshi Yosaburō）／Japanese Rule in Formosa／1907 | 拍攝＋分類 | ✓ |
+| 21_n258 | Savage Types. | 同上 | 拍攝＋分類 | ✓ |
+| 21_n261 | Western Gate of Kobicho.／Savage Types. | 同上 | 拍攝＋分類 | ✓ |
+| 21_n262 | Savage Types. | 同上 | 拍攝＋分類 | ✓ |
+| 22_n20 | A Taiyal Warrior. | 臺灣總督府蕃務本署／Report on the Control of the Aborigines in Formosa／1911 | 拍攝＋分類 | ✓ |
+| 22_n22 | Typical Taiyal Belle. | 同上 | 拍攝＋分類 | ✓ |
+| 22_n120 | A Bunun Man. | 同上 | 拍攝＋分類 | ✓ |
+| 22_n122 | A Bunun Woman. | 同上 | 拍攝＋分類 | ✓ |
+| 22_n152 | A Paiwan Man. | 同上 | 拍攝＋分類 | ✓ |
+| 22_n200 | An Ami Chief and His Wife. | 同上 | 拍攝＋分類 | ✓ |
+| 22_n268 | Population of the Aborigines. December 1909. | 同上 | 拍攝＋分類 | ✓ |
+| 22_n270 | Extension of the Guard-Line. 1895–1909. | 同上 | 拍攝＋分類 | ✓ |
+
+## 四、山胞——動作：命名 → 流通
+
+候選見第二輪清單 [`2026-10-23_round2_shanbao.md`](2026-10-23_round2_shanbao.md)。
+
 
 ## 片尾完整書目（草稿）
 
