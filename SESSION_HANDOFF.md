@@ -7,6 +7,8 @@
 
 - 第一輪研究完成，總整理在 [`07_findings/2026-10-23_round1.md`](07_findings/2026-10-23_round1.md)。
 - **歷史圖像**：選件建議第一版 47 張（福爾摩沙 11、生番 18、高砂族 18），見 [`03_search/2026-10-23_selection_draft.md`](03_search/2026-10-23_selection_draft.md)。截圖 362 張只在本機。總表還沒編號。
+- **第二輪「山胞」館藏**：[`03_search/2026-10-23_round2_shanbao.md`](03_search/2026-10-23_round2_shanbao.md)，國家文化記憶庫 176 筆圖像與報導、30 筆文件（授權較開放 17 筆），臺灣記憶多為不開放授權。未截圖。
+- **第二段結構已定**：主軸 C（時間骨架＋轉手對照），標題 Formosa、生番、高砂族、山胞、AI。
 - **AI 圖像**：Adobe Stock 女性 8 項已截圖收錄（AI01–AI08），見 [`10_ai_images/INDEX.md`](10_ai_images/INDEX.md)。平台搜尋紀錄在 `10_ai_images/search/`。
 
 ## 作者還沒回答的
@@ -17,7 +19,7 @@
 
 1. 作者回答上面的問題、確認歷史選件 → 總表編號（H01…）、`02_rights/` 授權紀錄、標註文字寫進 readme-video `07_edit/CARDS.md`。
 2. 10/26：整理 AI 影像來源、挑殖民影像（readme-video 製作總表）。
-3. 第二輪：「山胞」與戰後素材（archive.org 以外的館藏）；Adobe 第 2 頁以後；AI 圖的上架日期；Dreamstime、PromptHero 由作者手動搜尋。
+3. 作者從第二輪清單挑「山胞」段素材 → 截圖館藏頁面。之後：課本（國教院現場查閱？）；Adobe 第 2 頁以後；AI 圖的上架日期；Dreamstime、PromptHero 由作者手動搜尋。
 
 ## 注意
 
