@@ -5,7 +5,7 @@
 > 選件條件（作者決定，2026-10-23）：**女性**。依平台**標題文字**判斷（標題含 woman／women），不依外貌判斷。
 > 擷取日期：2026-10-23。
 
-## Adobe Stock（7 項，皆標示「由 AI 生成」）
+## Adobe Stock（8 項，皆標示「由 AI 生成」）
 
 | 編號 | ID | 類型 | 投稿者 | 標題（原文） | 網址 | 截圖 |
 |---|---|---|---|---|---|---|
@@ -16,10 +16,11 @@
 | AI05 | 2004072775 | 圖片 | Lexi | Taiwanese aboriginal woman weaving at a handloom indoors | [連結](https://stock.adobe.com/tw/images/taiwanese-aboriginal-woman-weaving-at-a-handloom-indoors/2004072775) | `adobe/adobe_2004072775_*` |
 | AI06 | 1491301837 | 圖片 | Yopi | Young Taiwanese Woman In Indigenous Attire Standing Elegantly Amid Blossoming Flowers Outdoors | [連結](https://stock.adobe.com/tw/images/young-taiwanese-woman-in-indigenous-attire-standing-elegantly-amid-blossoming-flowers-outdoors/1491301837) | `adobe/adobe_1491301837_*` |
 | AI07 | 1427130917 | 影片（5 秒） | Olga | Taiwanese indigenous Atayal woman with soft smile and traditional forehead tattoo against white background with copy space | [連結](https://stock.adobe.com/tw/video/taiwanese-indigenous-atayal-woman-with-soft-smile-and-traditional-forehead-tattoo-against-white-background-with-copy-space/1427130917) | `adobe/adobe_1427130917_*`（預覽為影片縮圖） |
+| AI08 | 1271396658 | 插圖 | danadesa | Smiling Taiwanese indigenous people wearing traditional colorful clothing and ornate headwear stand near a wooden hut. | [連結](https://stock.adobe.com/tw/images/smiling-taiwanese-indigenous-people-wearing-traditional-colorful-clothing-and-ornate-headwear-stand-near-a-wooden-hut/1271396658) | `adobe/adobe_1271396658_*`（標題寫 people，作者指定保留，2026-10-23） |
 
 ## 沒有收的
 
-- 標題只寫「couple」「people」「peoples」的（例如 1359992338、1883709258、1271396658、1141049338），標題沒寫女性，依規則不收；要不要補由作者決定。
+- 標題只寫「couple」「people」「peoples」的（例如 1359992338、1883709258、1141049338；1271396658 由作者指定保留，見 AI08），標題沒寫女性，依規則不收；要不要補由作者決定。
 - Freepik 2 項、Civitai 模型與圖：標題沒有寫女性，或沒有標題。
 
 ## 版權
