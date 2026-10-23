@@ -5,7 +5,7 @@
 
 ## 現況
 
-- repo 已建立，結構比照其他 readme-* repo。本機已 commit；GitHub 私人 repo `wufangci/readme-research` 待作者在網頁建立後推上去。
+- repo 已建立，結構比照其他 readme-* repo；GitHub 上是**私人** repo `wufangci/readme-research`。
 - 已加進作品地圖（readme-exhibition `00_PROJECT_MAP.md`），成為第七個 repo。
 - 已決定：圖像原檔不進 git，只備註來源；家族照片不收進來。
 - 總表還是空的。
