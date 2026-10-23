@@ -1,0 +1,11 @@
+# 圖像原檔不進 git（決定）：只在總表與 02_rights/ 備註來源
+01_images/*
+!01_images/README.md
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.pdf
+*.heic
+.DS_Store
