@@ -21,7 +21,7 @@
 
 「製作方式」只依有紀錄的製作事實（作者是否到過現場、照片或重繪、圖說文字），不判讀影像內容。✓ 對得上，△ 部分對得上，⚠️ 待確認。
 
-## 一、Formosa（11 張）——動作：想像
+## 一、Formosa（6 張）——動作：想像
 
 | 標示 | 原書圖說（抄錄） | 右下標註 | 製作方式 | 與本段動作 |
 |---|---|---|---|---|
@@ -31,11 +31,6 @@
 | 01_n276 | fig.9 The … General／The General's Lady／A Gentleman／A Gentlewoman | 同上 | 想像 | ✓ |
 | 01_n279 | fig.10 A Burger／A Country Bumpkin／A Virgin／A Bride | 同上 | 想像 | ✓ |
 | 01_n283 | fig.11 A Married Woman／A Gentleman's Nurse／A Widow／A Country Woman（Pag. 229） | 同上 | 想像 | ✓ |
-| 07_n4 | 卷首圖，標題「Verwaarloosde Formosa」 | Frederik Coyett（C.E.S.）／'t Verwaerloosde Formosa／1675 | 版畫（待查） | ⚠️ 待作者確認是否呈現人物形象、是否屬「想像」 |
-| 07_n74 |  | 同上 | 版畫（待查） | ⚠️ 待作者確認是否呈現人物形象、是否屬「想像」 |
-| 07_n86 | （右上）tweede deel fol. 20 | 同上 | 版畫（待查） | ⚠️ 待作者確認是否呈現人物形象、是否屬「想像」 |
-| 07_n110 | （右上）tweede deel fol. 40 | 同上 | 版畫（待查） | ⚠️ 待作者確認是否呈現人物形象、是否屬「想像」 |
-| 07_n130 | （右上）… fol. 52 | 同上 | 版畫（待查） | ⚠️ 待作者確認是否呈現人物形象、是否屬「想像」 |
 
 ## 二、生番（18 張）——動作：拍攝 → 重繪
 
@@ -91,7 +86,6 @@
 ## 片尾完整書目（草稿）
 
 - Psalmanazar, George. *An Historical and Geographical Description of Formosa*. London: Printed for Dan. Brown, G. Strahan, W. Davis, and Fran. Coggan, 1704. Johns Hopkins University Sheridan Libraries, via Internet Archive (`bib_fict_552132`).
-- Coyett, Frederik (C.E.S.). *'t Verwaerloosde Formosa*. Amsterdam: Jan Claesz. ten Hoorn, 1675. Getty Research Institute, via Internet Archive (`gri_33125008537637`).
 - Thomson, John. *Illustrations of China and Its People*, Vol. II. London: Sampson Low, Marston, Low, and Searle, 1873. Getty Research Institute, via Internet Archive (`gri_33125010851760`).
 - Thomson, John. « Voyage en Chine (1870-1872) : Formose ». Trad. A. Talandier. *Le Tour du monde*, t. XXX (1875, 2ᵉ semestre), 769ᵉ livraison, p. 209–224 ; 770ᵉ livraison, p. 225–240. Paris : Hachette. 原刊掃描：BnF Gallica `ark:/12148/bpt6k344041`。截圖取自 René Viénet 整理的 PDF（Internet Archive `john-thomson-formose-le-tour-du-monde-32-pages-light`）。
 - Mackay, George Leslie. *From Far Formosa*. New York: F. H. Revell, 1895. Princeton Theological Seminary Library, via Internet Archive (`fromfarformosais00mack`).
@@ -99,6 +93,10 @@
 - Davidson, James W. *The Island of Formosa, Past and Present*. London: Macmillan, 1903. University of Toronto, via Internet Archive (`islandofformosap00daviuoft`).
 - Takekoshi, Yosaburō. *Japanese Rule in Formosa*. Trans. George Braithwaite. London: Longmans, Green, and Co., 1907. Via Internet Archive (`japaneseruleinf00takegoog`).
 - Bureau of Aboriginal Affairs, Government of Formosa. *Report on the Control of the Aborigines in Formosa*. Taihoku, 1911. University of Michigan, digitized by Google, via Internet Archive (`taiwan.-report-on-the-control-of-the-aborigines-in-formosa`).
+
+## 已拿掉
+
+- #07 Coyett 1675：館藏紀錄顯示版畫內容為熱蘭遮城、廟宇內部、海陸戰爭場面，主題是荷蘭與鄭氏的衝突，作者判斷「比較不算」被想像的樣子（2026-10-23）。
 
 ## 待確認
 

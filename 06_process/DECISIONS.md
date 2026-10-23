@@ -63,3 +63,8 @@
 - **問題**：現有素材不全是「被想像」的影像（照片是拍攝、文件是命名）。
 - **決定**：每段代表一種動作，串成一條轉手的路徑；「被想像的樣子」保留為段落總標題：Formosa＝想像（沒去過的人編造）；生番＝拍攝 → 重繪；高砂族＝拍攝 → 分類；山胞＝命名 → 流通；AI＝生成（沒有被拍攝的人，平台上架販售）。
 - 已同步到 readme-video `04_active/01-flat-faces/README.md`。
+
+## 拿掉 Coyett（2026-10-23）
+
+- **依據**：Getty 館藏紀錄，《't Verwaerloosde Formosa》（1675）主題為荷蘭殖民地被鄭成功攻下；版畫由 Johannes van den Aveele、J. van Baden 製作，內容為熱蘭遮城、廟宇內部、戰爭場面。
+- **決定**：作者判斷「比較不算」被想像的樣子，從 Formosa 段拿掉。Formosa 段只留 Psalmanazar（6 張）。
