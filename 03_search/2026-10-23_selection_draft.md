@@ -47,14 +47,14 @@
 | 13_n27 |  | 同上 | 重繪 | ✓（並排節點：版畫） |
 | 13_n30 |  | 同上 | 重繪 | ✓（並排節點：版畫） |
 | 13_n31 |  | 同上 | 重繪 | ✓（並排節點：版畫） |
-| 17_n129 | Formosa Aborigines Eating Rice.／A Village in Eastern Formosa.（p.78） | George Leslie Mackay／From Far Formosa／1895 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
-| 17_n276 | Lam-si-hoan Chief and Party（p.242） | 同上 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
-| 17_n294 | Unsubdued Aborigines Living in the Mountains（p.256） | 同上 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
-| 17_n308 | Armed Head-hunters, Sometimes Known as "Black Flags"（p.268） | 同上 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
-| 18_n104 | Pepo-hoan Civilised Aborigines（p.64） | W. A. Pickering／Pioneering in Formosa／1898 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
-| 18_n146 | Pepo-hoan and Chinese Group, Formosa（p.100） | 同上 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
-| 18_n202 | A Pepo-hoan Fishing Party with Bows and Arrows（p.144） | 同上 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
-| 18_n208 | Aborigines, North Formosa（p.148） | 同上 | 拍攝 | △ 只有拍攝，沒有重繪；可留可刪 |
+| 17_n129 | Formosa Aborigines Eating Rice.／A Village in Eastern Formosa.（p.78） | George Leslie Mackay／From Far Formosa／1895 | 拍攝 | ✓ 保留（作者決定，2026-10-24）：拍攝；圖說為外部命名 |
+| 17_n276 | Lam-si-hoan Chief and Party（p.242） | 同上 | 拍攝 | ✓ 保留（作者決定，2026-10-24）：拍攝；圖說為外部命名 |
+| 17_n294 | Unsubdued Aborigines Living in the Mountains（p.256） | 同上 | 拍攝 | ✓ 保留（作者決定，2026-10-24）：拍攝；圖說為外部命名 |
+| 17_n308 | Armed Head-hunters, Sometimes Known as "Black Flags"（p.268） | 同上 | 拍攝 | ✓ 保留（作者決定，2026-10-24）：拍攝；圖說為外部命名 |
+| 18_n104 | Pepo-hoan Civilised Aborigines（p.64） | W. A. Pickering／Pioneering in Formosa／1898 | 拍攝 | ✓ 保留（作者決定，2026-10-24）：拍攝；圖說為外部命名 |
+| 18_n146 | Pepo-hoan and Chinese Group, Formosa（p.100） | 同上 | 拍攝 | ✓ 保留（作者決定，2026-10-24）：拍攝；圖說為外部命名 |
+| 18_n202 | A Pepo-hoan Fishing Party with Bows and Arrows（p.144） | 同上 | 拍攝 | ✓ 保留（作者決定，2026-10-24）：拍攝；圖說為外部命名 |
+| 18_n208 | Aborigines, North Formosa（p.148） | 同上 | 拍攝 | ✓ 保留（作者決定，2026-10-24）：拍攝；圖說為外部命名 |
 
 ## 三、高砂族（18 張）——動作：拍攝 → 分類
 
