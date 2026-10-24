@@ -81,8 +81,37 @@
 
 ## 四、山胞——動作：命名 → 流通
 
-候選見第二輪清單 [`2026-10-23_round2_shanbao.md`](2026-10-23_round2_shanbao.md)。
+候選來自第二輪清單 [`2026-10-23_round2_shanbao.md`](2026-10-23_round2_shanbao.md)。22 項都已截取國家文化記憶庫頁面（含授權標示），存在 `04_screenshots/30_tcmb-shanbao/`（不進 git），對照頁 `04_screenshots/_draft/4_shanbao_candidates.jpg`。
 
+**建議，未確認**：標「✓ 建議」的 12 項。依「類型」挑選，涵蓋命名文件、電影宣傳、觀光、歌舞表演、唱片、以稱呼命名的影像；不判讀影像內容。
+
+- 同一筆在記憶庫上常有兩個授權標示：圖像上一個、頁面標題下一個，兩者可能不同（例如圖像 CC BY-NC、頁面 CC0）。**以圖像上的標示為準**，正式使用前向原典藏確認。
+- 「僅限公開瀏覽」的只能看，要用需向典藏單位申請；或比照 AI 圖，以頁面截圖呈現。
+
+| 標示 | 年 | 標題（館藏原文） | 類型 | 授權（截圖上的標示） | 建議 | 連結 |
+|---|---|---|---|---|---|---|
+| 30_00 | 1947 | 高山族改稱山地同胞 | 命名文件 | 僅限公開瀏覽 | ✓ 建議 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=116000000077) |
+| 30_01 | 1954 | 修正台灣省山地九族中文名稱 | 命名文件（記憶庫只顯示卷宗封面） | CC BY-NC | ✓ 建議 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=drnh&id=014-010100-0090) |
+| 30_02 | 1955 | 陳子福手繪海報《山地姑娘》 | 電影海報 | 圖像：僅限公開瀏覽（頁面另標 CC BY） | ✓ 建議 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000183285) |
+| 30_03 | 1962 | 《吳鳳》電影本事 | 電影宣傳品 | 僅限公開瀏覽 | ✓ 建議 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000043379) |
+| 30_04 | 1962 | 《吳鳳》電影書籤 | 電影宣傳品 | 僅限公開瀏覽 | △ 與 03 同系列，可二選一 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000016584) |
+| 30_05 | 1963 | 越南萬隆公司發行《吳鳳》電影特刊 | 電影宣傳品（海外發行） | 僅限公開瀏覽 | ✓ 建議 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000024823) |
+| 30_06 | 1962 | 電影吳鳳拍攝現場 | 報紙照片 | 圖像：CC BY-NC（頁面另標 CC0） | ✓ 建議 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=307997) |
+| 30_07 | 1963 | 《吳鳳》獲第2屆金馬獎「最佳教育劇情片」 | 頒獎照片 | 圖像：CC BY-NC（頁面另標 CC BY-ND） | △ | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=621303) |
+| 30_08 | 1970 | 嘉義車站吳鳳像 | 雕像照片 | 圖像：PDM（頁面另標 CC BY） | ⚠️ 不是人物形象 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=754963) |
+| 30_09 | 1965 | 配合發展觀光事業，花山地文化村昨日正式開放 | 報紙版面 | 圖像：CC BY-NC（頁面另標 CC0） | ✓ 建議 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=263191) |
+| 30_10 | 1978 | 九族文化村的記憶 | 遊客家庭照 | 圖像：CC BY-NC（頁面另標 CC BY） | ⚠️ 拍的不是原住民形象 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=310197) |
+| 30_11 | 1970 | 花蓮天祥山地歌舞團赴日訪問 | 報紙照片 | 圖像：CC BY-NC（頁面另標 CC0） | ✓ 建議 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=308021) |
+| 30_12 | 1963 | 台灣山地民謠(第15集) | 唱片（只有圓盤） | 僅限公開瀏覽 | ⚠️ 沒有人物 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=17310054528) |
+| 30_13 | 1971 | 太王唱片《山地名歌傑作集：民族舞蹈特選曲》 | 唱片封面 | 僅限公開瀏覽 | ✓ 建議 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=11000017476) |
+| 30_14 | 1948 | 山地姑娘（南投日月潭） | 照片（標題以稱呼命名） | 僅限公開瀏覽 | ✓ 建議 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=125000001384) |
+| 30_15 | 1973 | 山胞 | 照片（標題以稱呼命名） | 僅限公開瀏覽 | △ | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=125000001400) |
+| 30_16 | 1951 | 山胞（方向 木刻） | 木刻版畫（標題以稱呼命名） | 僅限公開瀏覽 | ✓ 建議 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=12000012973) |
+| 30_17 | 1951 | 山地婦女（方向 木刻） | 木刻版畫 | 僅限公開瀏覽 | △ 與 16 同作者同年，可二選一 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=MOCCOLLECTIONS&id=12000012995) |
+| 30_18 | 1992 | 第一屆山胞藝術季 | 活動海報 | 圖像：CC BY-NC（頁面另標 CC BY） | △ | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=618235) |
+| 30_19 | 1992 | 第一屆山胞藝術季 | 活動海報 | 同上 | — 與 18 重複 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=617358) |
+| 30_20 | 1970s | 國小山地舞 | 家庭照片 | 圖像：CC BY-NC（頁面另標 CC BY） | △ | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=310591) |
+| 30_21 | 1969 | 板橋鎮後埔國小十週年校慶運動會表演千人山地舞 | 縣政刊物照片 | 圖像：CC BY-NC（頁面另標 CC BY） | ✓ 建議 | [記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=323805) |
 
 ## 片尾完整書目（草稿）
 
