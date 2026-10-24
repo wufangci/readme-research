@@ -44,7 +44,7 @@ AI 不替圖像寫內容說明，也不判讀圖像（依 README 的規則）。
 |---|---|---|---|
 | John Thomson 的台灣照片 | 1871 | archive.org 搜 `"John Thomson" Formosa`（15 筆） | |
 | Thomson, 〈Formose〉,《Le Tour du monde》 | 1875 | `john-thomson-formose-le-tour-du-monde-32-pages-light` | 作者已有 PDF |
-| 法國服飾版畫，印有「Formosan.〔Asie.〕」 | 1843 | 國立臺灣歷史博物館；archive.org `b33522042_0001` n248 | 推測出自 Wahlen《Mœurs, usages et costumes de tous les peuples du monde》t. I（1843），待對照 |
+| 法國服飾版畫，印有「Formosan.〔Asie.〕」 | 1843 | archive.org `b33522042_0001` n248（不引用臺史博典藏，作者決定 2026-10-24） | 推測出自 Wahlen《Mœurs, usages et costumes de tous les peuples du monde》t. I（1843），待對照 |
 | JSTOR 早期論文：*On the Natives of Formosa*（1869）、*The Aborigines of Formosa and the Liu-Kiu Islands*（1897） | 1869、1897 | `jstor-3014357`、`jstor-658522` | 查有無插圖 |
 
 ### 四、日治

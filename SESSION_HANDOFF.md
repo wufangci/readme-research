@@ -20,7 +20,7 @@
 
 1. 授權紀錄已建（`02_rights/` S01–S11）。下一步：右下標註文字寫進 readme-video `07_edit/CARDS.md`。
 2. 10/26：整理 AI 影像來源、挑殖民影像（readme-video 製作總表）。
-3. Wahlen 的文字來源已改引馮秉正 1715 年信（見 `03_search/2026-10-24_round3_wahlen-mailla-textbooks.md`）；待查：Mailla 信最早刊在《Lettres édifiantes》哪一冊、臺史博館藏頁面的登錄號。
+3. Wahlen 的文字來源已改引馮秉正 1715 年信（見 `03_search/2026-10-24_round3_wahlen-mailla-textbooks.md`）；待查：Mailla 信最早刊在《Lettres édifiantes》哪一冊。Wahlen 只用原始資料，不引用臺史博典藏（作者決定）。
 4. 課本：線上沒有，用現有資料代替（作者決定）。
 5. 之後：Adobe 第 2 頁以後；AI 圖的上架日期；Dreamstime、PromptHero 由作者手動搜尋。
 
