@@ -1,25 +1,26 @@
 # SESSION HANDOFF
 
 > 交接用。每次工作結束時整份覆寫，只留現況與下一步。
-> 最後更新：2026-10-23
+> 最後更新：2026-10-24
 
 ## 現況
 
 - 第一輪研究完成，總整理在 [`07_findings/2026-10-23_round1.md`](07_findings/2026-10-23_round1.md)。
-- **歷史圖像**：選件建議第一版 47 張（福爾摩沙 11、生番 18、高砂族 18），見 [`03_search/2026-10-23_selection_draft.md`](03_search/2026-10-23_selection_draft.md)。截圖 362 張只在本機。總表還沒編號。
+- **歷史圖像**：選件建議第一版 47 張（福爾摩沙 11、生番 18、高砂族 18），見 [`03_search/2026-10-23_selection_draft.md`](03_search/2026-10-23_selection_draft.md)。選件已確定 57 張（Formosa 7、生番 18、高砂族 18、山胞 14），總表已編號 H01–H57，見 [`00_PRODUCTION_BOARD.md`](00_PRODUCTION_BOARD.md)。截圖只在本機。
 - **第二輪「山胞」館藏**：[`03_search/2026-10-23_round2_shanbao.md`](03_search/2026-10-23_round2_shanbao.md)，國家文化記憶庫 176 筆圖像與報導、30 筆文件（授權較開放 17 筆），臺灣記憶多為不開放授權。未截圖。
 - **第二段結構已定**：主軸 C（時間骨架＋轉手對照），標題 Formosa、生番、高砂族、山胞、AI。
 - **AI 圖像**：Adobe Stock 女性 8 項已截圖收錄（AI01–AI08），見 [`10_ai_images/INDEX.md`](10_ai_images/INDEX.md)。平台搜尋紀錄在 `10_ai_images/search/`。
 
 ## 作者還沒回答的
 
-- 歷史選件第一版（47 張）的增刪。
-- 第二輪「山胞」清單要挑哪些。
+- 授權紀錄 `02_rights/` 要每張一份（H01.md…，照現行規則），還是每個出處一份。
+- 山胞段 🔴「僅限公開瀏覽」9 張：改用館藏頁面截圖，還是向館方申請。
+- AI 圖要不要併入 H 編號（目前沿用 AI01–AI08）。
 （第一輪的結構問題已回答，見 `07_findings/2026-10-23_round1.md` 第六節。）
 
 ## 下次開始時
 
-1. 作者確認歷史選件 → 總表編號（H01…）、`02_rights/` 授權紀錄、標註文字寫進 readme-video `07_edit/CARDS.md`。
+1. `02_rights/` 授權紀錄、標註文字寫進 readme-video `07_edit/CARDS.md`。
 2. 10/26：整理 AI 影像來源、挑殖民影像（readme-video 製作總表）。
 3. 作者從第二輪清單挑「山胞」段素材 → 截圖館藏頁面。之後：課本（國教院現場查閱？）；Adobe 第 2 頁以後；AI 圖的上架日期；Dreamstime、PromptHero 由作者手動搜尋。
 
