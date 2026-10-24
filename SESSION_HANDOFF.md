@@ -1,7 +1,7 @@
 # SESSION HANDOFF
 
 > 交接用。每次工作結束時整份覆寫，只留現況與下一步。
-> 最後更新：2026-10-24
+> 最後更新：2026-10-24（下午）
 
 ## 現況
 
@@ -20,7 +20,9 @@
 
 1. 授權紀錄已建（`02_rights/` S01–S11）。下一步：右下標註文字寫進 readme-video `07_edit/CARDS.md`。
 2. 10/26：整理 AI 影像來源、挑殖民影像（readme-video 製作總表）。
-3. 作者從第二輪清單挑「山胞」段素材 → 截圖館藏頁面。之後：課本（國教院現場查閱？）；Adobe 第 2 頁以後；AI 圖的上架日期；Dreamstime、PromptHero 由作者手動搜尋。
+3. Wahlen 的文字來源已改引馮秉正 1715 年信（見 `03_search/2026-10-24_round3_wahlen-mailla-textbooks.md`）；待查：Mailla 信最早刊在《Lettres édifiantes》哪一冊、臺史博館藏頁面的登錄號。
+4. 課本：線上沒有，用現有資料代替（作者決定）。
+5. 之後：Adobe 第 2 頁以後；AI 圖的上架日期；Dreamstime、PromptHero 由作者手動搜尋。
 
 ## 注意
 

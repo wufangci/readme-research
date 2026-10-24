@@ -31,7 +31,7 @@
 | 01_n276 | fig.9 The … General／The General's Lady／A Gentleman／A Gentlewoman | 同上 | 想像 | ✓ |
 | 01_n279 | fig.10 A Burger／A Country Bumpkin／A Virgin／A Bride | 同上 | 想像 | ✓ |
 | 01_n283 | fig.11 A Married Woman／A Gentleman's Nurse／A Widow／A Country Woman（Pag. 229） | 同上 | 想像 | ✓ |
-| 29_n248 | Formosan.（Asie.） | Auguste Wahlen／Mœurs, usages et costumes de tous les peuples du monde／1843 | 想像 | ✓ 作者確認（2026-10-24）：依傳教士口述描繪，繪者未親眼見過（依據：張隆志主編，《跨越世紀的信號3：圖像裡的臺灣史（18–20世紀）》（撰稿：簡宏逸、鄭螢憶、盧正恒、林紋沛、陳偉智、蔡思薇、莊勝全、曾獻緯、黃悠詩、楊淳嫻；第一章全章，簡宏逸撰；章名、頁碼、出版者、年份、ISBN 待補）） |
+| 29_n248 | Formosan.（Asie.） | Auguste Wahlen／Mœurs, usages et costumes de tous les peuples du monde／1843 | 想像 | ✓ 作者確認（2026-10-24）：依傳教士口述描繪，繪者未親眼見過（文字來源：馮秉正 Mailla 1715 年信，見 [`2026-10-24_round3_wahlen-mailla-textbooks.md`](2026-10-24_round3_wahlen-mailla-textbooks.md)） |
 
 ## 二、生番（18 張）——動作：拍攝 → 重繪
 
@@ -117,6 +117,7 @@
 
 - Psalmanazar, George. *An Historical and Geographical Description of Formosa*. London: Printed for Dan. Brown, G. Strahan, W. Davis, and Fran. Coggan, 1704. Johns Hopkins University Sheridan Libraries, via Internet Archive (`bib_fict_552132`).
 - Wahlen, Auguste. *Mœurs, usages et costumes de tous les peuples du monde, d'après des documents authentiques et les voyages les plus récents*. T. I, Asie. Bruxelles: Librairie historique-artistique, 1843. Wellcome Library, via Internet Archive (`b33522042_0001`), Public Domain Mark.
+- Mailla, Joseph-Anne-Marie de Moyriac de. « Lettre du père Mailla, Jésuite, au père de Colonia », août 1715. In *Choix des lettres édifiantes écrites des missions étrangères*, t. 2, p. 168–. Paris : Maradan, 1808. Via Internet Archive (`choixdeslettrese0002mont`).
 - Thomson, John. *Illustrations of China and Its People*, Vol. II. London: Sampson Low, Marston, Low, and Searle, 1873. Getty Research Institute, via Internet Archive (`gri_33125010851760`).
 - Thomson, John. « Voyage en Chine (1870-1872) : Formose ». Trad. A. Talandier. *Le Tour du monde*, t. XXX (1875, 2ᵉ semestre), 769ᵉ livraison, p. 209–224 ; 770ᵉ livraison, p. 225–240. Paris : Hachette. 原刊掃描：BnF Gallica `ark:/12148/bpt6k344041`。截圖取自 René Viénet 整理的 PDF（Internet Archive `john-thomson-formose-le-tour-du-monde-32-pages-light`）。
 - Mackay, George Leslie. *From Far Formosa*. New York: F. H. Revell, 1895. Princeton Theological Seminary Library, via Internet Archive (`fromfarformosais00mack`).
@@ -127,7 +128,7 @@
 
 ## 新增
 
-- #29 Wahlen 1843（作者提供，2026-10-23）：彩色版畫 n248，圖說「Formosan.（Asie.）」。和作者在研究資料中保存的國立臺灣歷史博物館典藏 `20020060075_P001.jpg`（圖說同為「Formosan.〔Asie.〕」）推測是同一張版畫，待對照（建議，未確認）。作者確認此圖為虛構：依傳教士口述描繪，繪者未親眼見過（2026-10-24）。依據：張隆志主編，《跨越世紀的信號3：圖像裡的臺灣史（18–20世紀）》（撰稿：簡宏逸、鄭螢憶、盧正恒、林紋沛、陳偉智、蔡思薇、莊勝全、曾獻緯、黃悠詩、楊淳嫻；第一章全章，簡宏逸撰；章名、頁碼、出版者、年份、ISBN 待補）。
+- #29 Wahlen 1843（作者提供，2026-10-23）：彩色版畫 n248，圖說「Formosan.（Asie.）」。和國立臺灣歷史博物館典藏 `20020060075_P001.jpg` 對照，**是同一塊版的印本**（2026-10-24）。作者確認此圖為虛構：依傳教士口述描繪，繪者未親眼見過。文字來源改引原始資料（馮秉正 1715 年信、Wahlen 原書 p. 220 說明），不引《跨越世紀的信號3》，見 [`2026-10-24_round3_wahlen-mailla-textbooks.md`](2026-10-24_round3_wahlen-mailla-textbooks.md)。
 
 ## 已拿掉
 
