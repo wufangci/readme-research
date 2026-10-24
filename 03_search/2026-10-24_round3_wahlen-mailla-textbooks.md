@@ -6,7 +6,7 @@
 ## 一、馮秉正（Joseph-Anne-Marie de Moyriac de Mailla）1715 年的信
 
 - **原文出處（已讀）**：Lettre du père Mailla, Jésuite, au père de Colonia, de la même compagnie. À Kieou-kiang-fou, dans la province de Kiang-si, au mois d'août 1715. 收在 [Jean-Baptiste Montmignon] 編，*Choix des lettres édifiantes écrites des missions étrangères*, t. 2, Paris: Maradan, 1808, p. 168 起；描寫原住民的段落在 p. 173–174。Internet Archive [`choixdeslettrese0002mont`](https://archive.org/details/choixdeslettrese0002mont)（archive.org 未標權利；1808 年出版）。
-- **最早刊載**：*Lettres édifiantes et curieuses* 的哪一冊（recueil），**待查**（網路資料有寫 XIV，也有寫 1715 年版，沒有確認）。
+- **最早刊載（已查）**：*Lettres édifiantes et curieuses*, **XIV. Recueil**, Paris : Nicolas Le Clerc, 1720，p. 1 起（Du Halde 序，出版許可 1720 年 2 月 18 日）。後收入 Querbeuf 新版 t. XVIII（1781），p. 413–467；德譯收入 Stöcklein《Welt-Bott》第 VI 部第 138 號。依據：Henri Cordier, *Bibliotheca Sinica*, 2ᵉ éd., vol. 1（1904–1906），Internet Archive [`bibliothecasini01cordgoog`](https://archive.org/details/bibliothecasini01cordgoog)；原冊本身尚未讀到。
 - **英譯**：*The Early History of Formosa; Translated from the French of Father de Mailla, S.J., in the "Lettres Édifiantes et Curieuses" 1715*，reprinted from *The Celestial Empire*（[Google Books](https://books.google.com/books/about/The_Early_History_of_Formosa_Translated.html?id=043yIhIAWZQC)）。未讀。
 - **背景**：馮秉正 1714 年隨康熙的測繪計畫到過臺灣（與雷孝思 Régis、德瑪諾 Hinderer 同行）。**他本人到過臺灣；Wahlen 書的繪者沒有**。
 
@@ -27,6 +27,7 @@
 
 ### 片尾書目（草稿）
 
+- Mailla, Joseph-Anne-Marie de Moyriac de. « Lettre du Père de Mailla, missionnaire de la Compagnie de Jésus, au Père de Colonia, de la même Compagnie ». À Kieou-kiang-fou, août 1715. *Lettres édifiantes et curieuses*, XIVᵉ recueil, p. 1–. Paris : Nicolas Le Clerc, 1720.（原冊待讀）
 - Mailla, Joseph-Anne-Marie de Moyriac de. « Lettre du père Mailla, Jésuite, au père de Colonia », août 1715. In *Choix des lettres édifiantes écrites des missions étrangères*, t. 2, p. 168–. Paris : Maradan, 1808. Via Internet Archive (`choixdeslettrese0002mont`).
 
 ## 二、Wahlen n248 與臺史博典藏圖對照
