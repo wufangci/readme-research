@@ -74,3 +74,8 @@
 - **要求**：作者提供 archive.org `b33522042_0001`（Wahlen《Mœurs, usages et costumes de tous les peuples du monde》t. I Asie，1843），認為比 Coyett 更符合。
 - **決定**：加入 Formosa 段（n248，圖說「Formosan.（Asie.）」）。授權 PDM（Wellcome Library）。
 - 與臺史博典藏的「Formosan.〔Asie.〕」版畫推測同源，待對照。
+
+## Wahlen 1843 的製作方式（2026-10-24）
+
+- **作者確認**：此版畫為虛構，是依傳教士的口述描繪，繪者沒有親眼見過（作者先前讀過相關書籍得知）。
+- 製作方式由「編纂（待查）」改為「想像」。引用用的文獻出處待作者提供。

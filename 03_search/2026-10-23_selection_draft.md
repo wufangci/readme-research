@@ -31,7 +31,7 @@
 | 01_n276 | fig.9 The … General／The General's Lady／A Gentleman／A Gentlewoman | 同上 | 想像 | ✓ |
 | 01_n279 | fig.10 A Burger／A Country Bumpkin／A Virgin／A Bride | 同上 | 想像 | ✓ |
 | 01_n283 | fig.11 A Married Woman／A Gentleman's Nurse／A Widow／A Country Woman（Pag. 229） | 同上 | 想像 | ✓ |
-| 29_n248 | Formosan.（Asie.） | Auguste Wahlen／Mœurs, usages et costumes de tous les peuples du monde／1843 | 編纂（待查） | ✓ 作者指定（2026-10-23）；書名自稱依「documents authentiques」編纂，作者是否到過現場待查 |
+| 29_n248 | Formosan.（Asie.） | Auguste Wahlen／Mœurs, usages et costumes de tous les peuples du monde／1843 | 想像 | ✓ 作者確認（2026-10-24）：依傳教士口述描繪，繪者未親眼見過（作者閱讀文獻得知，出處待補） |
 
 ## 二、生番（18 張）——動作：拍攝 → 重繪
 
@@ -98,7 +98,7 @@
 
 ## 新增
 
-- #29 Wahlen 1843（作者提供，2026-10-23）：彩色版畫 n248，圖說「Formosan.（Asie.）」。和作者在研究資料中保存的國立臺灣歷史博物館典藏 `20020060075_P001.jpg`（圖說同為「Formosan.〔Asie.〕」）推測是同一張版畫，待對照（建議，未確認）。
+- #29 Wahlen 1843（作者提供，2026-10-23）：彩色版畫 n248，圖說「Formosan.（Asie.）」。和作者在研究資料中保存的國立臺灣歷史博物館典藏 `20020060075_P001.jpg`（圖說同為「Formosan.〔Asie.〕」）推測是同一張版畫，待對照（建議，未確認）。作者確認此圖為虛構：依傳教士口述描繪，繪者未親眼見過（2026-10-24，出處待補）。
 
 ## 已拿掉
 
